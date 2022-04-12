@@ -1,4 +1,4 @@
-FROM node:8
+FROM node:12.22.11
 
 WORKDIR /usr/src/app
 ADD . /usr/src/app
